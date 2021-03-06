@@ -1,0 +1,1 @@
+If movie is webseries then all videos of all seasons must be kept in one folder named "name of webseries".
